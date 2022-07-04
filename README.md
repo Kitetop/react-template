@@ -15,6 +15,7 @@ css-minimizer-webpack-plugin | 优化并缩小css代码
 | | |
 ---
 > 使用babel-loader时
+
 插件名字|作用 
  :----:|:----:
  @babel/plugin-proposal-decorators | 用于支持装饰器
